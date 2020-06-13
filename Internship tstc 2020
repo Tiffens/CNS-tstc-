@@ -1,0 +1,2 @@
+git remote add origin https://github.com/Tiffens/CNS-tstc-.git
+git push -u origin master
